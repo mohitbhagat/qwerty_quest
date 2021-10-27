@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">QWERTY Quest</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="start">Start</string>
+    <string name="tutorial">Tutorial</string>
+
+    <string name="tutorial1">How To Play</string>
+    <string name="tutorial2">
+        QWERTY Quest is a typing adventure game where you defeat enemies with the
+        power of your mobile keyboard!
+    </string>
+    <string name="tutorial3">
+        Here is a possible enemy encounter with important details labelled from 1 to 4
+        and described below
+    </string>
+    <string name="tutorial4">
+        1.  These are text bubbles. Accurately type what you see. Different bubble
+        colours have different effects like attacking and healing!
+        \n\n
+        2. Each text bubble has an associated timer. Type the text before the timer runs out!
+        \n\n
+        3. This is the enemy! Their health bar is above it. Win by getting their health to 0.
+        \n\n
+        4. This is the text area. What you type will be shown here. Your health bar is right above it.
+        You lose if this bar reaches 0.
+    </string>
+    <string name="tutorialbutton">Back to Title Screen</string>
+
+
+    <string name="settings">Settings</string>
+    <string name="settingsinfo">Edit Game Settings</string>
+    <string name="settingsdifficulty">Difficulty:</string>
+    <string-array name="difficulty_array">
+        <item>Easy</item>
+        <item>Medium</item>
+        <item>Hard</item>
+    </string-array>
+    <string name="settingssave">Save and Go Back</string>
+
+    <string name="background_forest_image">Background Forest Image</string>
+
+    <string name="quit">Back To Main Menu</string>
+    <string name="continueGame">Continue</string>
+</resources>
